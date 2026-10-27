@@ -419,15 +419,6 @@ module.exports = {
       "filterable": 1
     },
     {
-      "key": "nodejs_netflixgc",
-      "name": "🛜奈飞- 极速",
-      "type": 3,
-      "api": "/spider/netflixgc/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "nodejs_linglingqi",
       "name": "🕵️凌凌漆 - 极速",
       "type": 3,
@@ -465,10 +456,10 @@ module.exports = {
       "filterable": 0
     },
     {
-      "key": "nodejs_dongman_bashi",
-      "name": "🚌动漫 - 巴士",
+      "key": "nodejs_dongman_bashi_fast",
+      "name": "🚌巴士-动漫",
       "type": 3,
-      "api": "/spider/dongman_bashi/3",
+      "api": "/spider/dongman_bashi_fast/3",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
