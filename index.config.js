@@ -40,6 +40,15 @@ module.exports = {
       "filterable": 0
     },
     {
+      "key": "nodejs_xiaosa_4k",
+      "name": "🐼潇洒·4K",
+      "type": 3,
+      "api": "/spider/xiaosa_4k/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "nodejs_duoduo_pan",
       "name": "☁️多多·4K",
       "type": 3,
@@ -111,15 +120,6 @@ module.exports = {
       "quickSearch": 1,
       "filterable": 1,
       "adult": true
-    },
-    {
-      "key": "nodejs_duanju_bashi",
-      "name": "🎬短剧 - 巴士",
-      "type": 3,
-      "api": "/spider/duanju_bashi/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "nodejs_duanju_daquan",
@@ -263,7 +263,7 @@ module.exports = {
       "api": "/spider/guazi/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "nodejs_youtube_video",
@@ -456,10 +456,10 @@ module.exports = {
       "filterable": 0
     },
     {
-      "key": "nodejs_dongman_bashi_fast",
+      "key": "nodejs_dongman_bashi_mixed",
       "name": "🚌巴士-动漫",
       "type": 3,
-      "api": "/spider/dongman_bashi_fast/3",
+      "api": "/spider/dongman_bashi_mixed/3",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
