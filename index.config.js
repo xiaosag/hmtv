@@ -10,7 +10,8 @@ module.exports = {
       "api": "/spider/douban_hot/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "indexs": 1
     },
     {
       "key": "nodejs_baseset",
@@ -94,10 +95,10 @@ module.exports = {
       "filterable": 0
     },
     {
-      "key": "nodejs_hongguo_node",
+      "key": "nodejs_hongguo_local_smooth",
       "name": "🍎红果 - 短剧",
       "type": 3,
-      "api": "/spider/hongguo_node/3",
+      "api": "/spider/hongguo_local_smooth/3",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
