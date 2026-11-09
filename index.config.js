@@ -264,7 +264,7 @@ module.exports = {
       "api": "/spider/guazi/3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "nodejs_youtube_video",
