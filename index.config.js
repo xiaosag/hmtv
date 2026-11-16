@@ -420,15 +420,6 @@ module.exports = {
       "filterable": 1
     },
     {
-      "key": "nodejs_linglingqi",
-      "name": "🕵️凌凌漆 - 极速",
-      "type": 3,
-      "api": "/spider/linglingqi/3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "nodejs_kanju_ai",
       "name": "🤖看剧 AI - 极速",
       "type": 3,
@@ -464,6 +455,16 @@ module.exports = {
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "nodejs_cg51",
+      "name": "🍉51吃瓜",
+      "type": 3,
+      "api": "/spider/cg51/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "adult": true
     }
   ],
 };
