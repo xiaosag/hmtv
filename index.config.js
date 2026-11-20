@@ -339,6 +339,15 @@ module.exports = {
       "filterable": 1
     },
     {
+      "key": "nodejs_kankanya_node",
+      "name": "🦆看看鸭- 极速",
+      "type": 3,
+      "api": "/spider/kankanya_node/3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "nodejs_wencaiyingshi",
       "name": "📖文才 - 极速",
       "type": 3,
